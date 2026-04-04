@@ -1,39 +1,73 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&height=70&lines=Hi+👋+I'm+Aman+Sharma;Full-Stack+Developer;ERP+Specialist;Performance+Optimizer" alt="Typing SVG" /></div>
-
 <div align="center">
 
-## ✨ Passionate Software Developer | Full-Stack Engineer | Tech Enthusiast ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Aman%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ERP%20Specialist%20%7C%20Performance%20Optimizer&descAlignY=58" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98e27e7a-bfab-4115-8719-86e2451ce5d7.gif" width="500" height="300" alt="Developer Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Aman+Sharma;Senior+Software+Developer;Building+Scalable+ERP+%26+Business+Systems;React+%7C+Next.js+%7C+.NET+%7C+SQL;Clean+Code+%E2%80%A2+Fast+Systems+%E2%80%A2+Real+Impact" alt="Typing SVG" />
 
----
+<br/>
 
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/aman-sharma-2b6bab147/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/BlackWorld-Creater)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:aman5kvision@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/918081509186)
-
----
+<img src="https://komarev.com/ghpvc/?username=BlackWorld-Creater&style=for-the-badge&color=0e75b6" alt="profile views" />
+<a href="https://github.com/BlackWorld-Creater?tab=followers"><img src="https://img.shields.io/github/followers/BlackWorld-Creater?style=for-the-badge&color=7DF9FF&labelColor=0D1117" alt="followers" /></a>
+<a href="mailto:aman5kvision@gmail.com"><img src="https://img.shields.io/badge/Email-aman5kvision%40gmail.com-7DF9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D1117" alt="email" /></a>
+<a href="https://wa.me/918081509186"><img src="https://img.shields.io/badge/WhatsApp-8081509186-7DF9FF?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=0D1117" alt="whatsapp" /></a>
 
 </div>
 
-## 🎯 About Me
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-5a2f62d7-4a1f-4b67-b60b-58477e5f426b.gif" width="280" height="280" alt="Coder Gif" />
+<div align="center">
 
-I'm a **Full-Stack Software Developer** with **4+ years** of hands-on experience crafting scalable, secure, and innovative applications. My expertise spans:
+## ✨ Passionate Software Developer • Full-Stack Engineer • Tech Enthusiast
 
-- 🎨 **Frontend Magic** - React, Next.js with stunning UX
-- ⚙️ **Backend Power** - .NET, ASP.NET MVC APIs
-- 📊 **ERP Systems** - Enterprise solutions at scale
-- 🚀 **Performance** - Optimization & scalability
-- 👥 **Leadership** - Mentoring & team growth
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98e27e7a-bfab-4115-8719-86e2451ce5d7.gif" width="560" alt="developer animation" />
 
-Currently **Senior Software Developer** at ManaviyaTech Solutions, where I mentor teams and drive technical excellence.
+</div>
+
+---
+
+## 🧊 About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923823-5a2f62d7-4a1f-4b67-b60b-58477e5f426b.gif" width="290" alt="coder gif" />
+
+I'm a **Full-Stack Software Developer** with **4+ years of experience** building scalable, secure, and high-performance applications for real business use.
+
+I work across the full development lifecycle — from clean UI and responsive frontends to powerful APIs, ERP workflows, reporting dashboards, and performance optimization.
+
+### ⚡ What I focus on
+- 🎨 **Frontend Excellence** — React.js, Next.js, modern responsive UI
+- ⚙️ **Backend Engineering** — .NET, ASP.NET MVC, REST APIs
+- 📊 **ERP & Dashboard Systems** — enterprise workflows, reporting, data-heavy apps
+- 🚀 **Performance Optimization** — faster queries, smoother UX, scalable architecture
+- 👥 **Leadership & Mentoring** — code quality, team support, best practices
+
+### 🧠 Current role
+- **Senior Software Developer** at **ManaviyaTech Solutions LLP**
+- Mentoring developers, improving project delivery, and driving technical quality
+
+> **I don't just build features — I build products that are faster, cleaner, and ready to scale.**
 
 <br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aman-sharma-2b6bab147/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/BlackWorld-Creater">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:aman5kvision@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/918081509186">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+</div>
 
 ---
 
@@ -41,50 +75,53 @@ Currently **Senior Software Developer** at ManaviyaTech Solutions, where I mento
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    🚀 CAREER PROGRESSION 🚀                      │
-└─────────────────────────────────────────────────────────────────┘
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           🚀 CAREER PROGRESSION 🚀                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ### 🌟 Senior Software Developer | ManaviyaTech Solutions LLP
-**📅 July 2025 – Present** | <span style="color:#00FF41">●</span> **Active**
+**📅 July 2025 – Present** • **Active**
 
-```
-▶ 👥 Mentored junior developers with industry best practices
-▶ ⏱️  Managed project timelines with 100% on-time delivery
-▶ 🎓 Trained new developers on design & code review standards
-▶ ⚡ Resolved critical performance bottlenecks (+50% efficiency)
-▶ 🔍 Conducted code reviews improving quality metrics
-▶ 🏆 Led technical initiatives for team excellence
+```yaml
+responsibilities:
+  - Mentoring junior developers on code quality and best practices
+  - Managing timelines and helping projects ship on time
+  - Training new developers on design and review standards
+  - Solving critical performance bottlenecks
+  - Conducting code reviews for maintainability and quality
+  - Supporting technical decision-making across projects
 ```
 
-**Key Achievements:**
-- 📈 Improved team productivity by 40%
-- 🐛 Fixed 100+ production issues
-- 📚 Created 15+ technical documentation guides
+**Key Achievements**
+- 📈 Improved team productivity by **40%**
+- ⚡ Resolved major bottlenecks with up to **50% efficiency improvement**
+- 📚 Created technical documentation and onboarding guidance
+- 🔍 Strengthened review processes and code quality
 
 ---
 
 ### 💻 Software Developer | Dataman Computer System PVT. LTD.
-**📅 March 2021 – June 2025** | **4+ Years** ⭐
+**📅 March 2021 – June 2025** • **4+ Years**
 
-```
-▶ 🏗️ Developed enterprise-grade web applications
-▶ 🔌 Engineered RESTful APIs for ERP systems
-▶ 📱 Built responsive UI for web & mobile
-▶ 🔄 Implemented real-time data synchronization
-▶ 🚀 Optimized database queries (-60% load time)
-▶ 🤝 Collaborated with 20+ cross-functional team members
+```yaml
+responsibilities:
+  - Developed enterprise-grade web applications
+  - Engineered backend APIs for ERP systems
+  - Built responsive interfaces for web and mobile
+  - Implemented real-time data synchronization
+  - Optimized database queries and system workflows
+  - Worked with cross-functional teams on delivery and support
 ```
 
-**Key Achievements:**
-- 🎯 Delivered 4 major projects on schedule
-- 📊 Built 10+ dashboards for real-time monitoring
-- 💾 Handled 1M+ data transactions daily
-- 🌍 Supported multi-language platforms
+**Key Achievements**
+- 🎯 Delivered **4 major projects** successfully
+- 📊 Built **10+ dashboards** for monitoring and operations
+- 💾 Supported **1M+ daily data transactions**
+- 🌍 Worked on multi-language and business-critical platforms
 
 ---
 
@@ -92,76 +129,30 @@ Currently **Senior Software Developer** at ManaviyaTech Solutions, where I mento
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend
 
-<table>
-<tr>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-    <br>HTML5
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    <br>CSS3
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
-    <br>MUI
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,materialui" alt="frontend skills" />
 
-### ⚙️ Backend Technologies
+### ⚙️ Backend & Database
 
-<table>
-<tr>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-    <br>.NET
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-    <br>C#
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="MSSQL" />
-    <br>MS SQL
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
-    <br>VS Studio
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-    <br>VS Code
-</td>
-<td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-    <br>Git
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mssql" alt="backend skills" />
+
+### 🧰 Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" alt="tools" />
+
+</div>
 
 ### 🎯 Specializations
 
-![ERP Systems](https://img.shields.io/badge/ERP%20Systems-FF6B35?style=for-the-badge&logo=database&logoColor=white)
-![API Integration](https://img.shields.io/badge/API%20Integration-4ECDC4?style=for-the-badge&logo=api&logoColor=white)
-![Dashboard Dev](https://img.shields.io/badge/Dashboard%20Development-FF1744?style=for-the-badge&logo=chart-line&logoColor=white)
-![Performance](https://img.shields.io/badge/Performance%20Optimization-00FF41?style=for-the-badge&logo=rocket&logoColor=white)
-![Real-time](https://img.shields.io/badge/Real--time%20Systems-9C27B0?style=for-the-badge&logo=sync&logoColor=white)
-![Responsive](https://img.shields.io/badge/Mobile%20Responsive-00BCD4?style=for-the-badge&logo=responsive&logoColor=white)
+<div align="center">
+
+![ERP Systems](https://img.shields.io/badge/ERP%20Systems-111827?style=for-the-badge&logo=databricks&logoColor=7DF9FF)
+![REST APIs](https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=7DF9FF)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-111827?style=for-the-badge&logo=apacheecharts&logoColor=7DF9FF)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-111827?style=for-the-badge&logo=lighthouse&logoColor=7DF9FF)
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-111827?style=for-the-badge&logo=tailwindcss&logoColor=7DF9FF)
+![Real-time Systems](https://img.shields.io/badge/Real--time%20Systems-111827?style=for-the-badge&logo=socketdotio&logoColor=7DF9FF)
 
 </div>
 
@@ -171,36 +162,36 @@ Currently **Senior Software Developer** at ManaviyaTech Solutions, where I mento
 
 <div align="center">
 
-### 📦 Project Showcase
+<img src="https://github-profile-trophy.vercel.app/?username=BlackWorld-Creater&theme=algolia&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="trophies" />
 
 </div>
 
-### 🌐 Project #1: Business Static Application
+### 🌐 Project 1 — Business Static Application / ERP Monitoring Platform
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎯 Objective:**
-Comprehensive real-time ERP monitoring platform for enterprises
+#### 🎯 Objective
+A comprehensive real-time ERP monitoring platform for enterprise workflows.
 
-**📊 Features:**
-- ✅ Real-time Sales tracking
-- ✅ Purchase order management
-- ✅ Inventory control system
-- ✅ Live analytics dashboard
-- ✅ Mobile-responsive design
+#### 📌 Key Features
+- ✅ Real-time sales tracking
+- ✅ Purchase order visibility
+- ✅ Inventory control workflows
+- ✅ Live analytics dashboards
+- ✅ Mobile-responsive user experience
 
-**💡 Impact:**
-- 📈 60% faster data retrieval
-- 🎯 95% uptime achievement
-- 👥 Served 500+ users
+#### 💡 Outcome
+- 📈 **60% faster** data retrieval
+- 🎯 Strong operational monitoring
+- 👥 Designed for **500+ users**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**👨‍💻 My Role:**
-```
+#### 👨‍💻 My Contribution
+```text
 ├─ Backend API Development
 ├─ Frontend UI Design
 ├─ ERP Data Integration
@@ -208,10 +199,10 @@ Comprehensive real-time ERP monitoring platform for enterprises
 └─ Performance Tuning
 ```
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
+#### 🛠️ Stack
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=7DF9FF)
 
 </td>
 </tr>
@@ -219,43 +210,43 @@ Comprehensive real-time ERP monitoring platform for enterprises
 
 ---
 
-### 📄 Project #2: PaperBiz ERP
+### 📄 Project 2 — PaperBiz ERP
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏭 Objective:**
-Enterprise-grade ERP for paper manufacturing industry
+#### 🎯 Objective
+An ERP system tailored for paper manufacturing and process-heavy business operations.
 
-**📊 Features:**
-- ✅ Advanced dashboards
-- ✅ Reporting modules
-- ✅ Document management
-- ✅ Workflow automation
-- ✅ Data analytics
+#### 📌 Key Features
+- ✅ Advanced reporting dashboards
+- ✅ Document and workflow modules
+- ✅ Business process automation
+- ✅ Data analytics views
+- ✅ User-friendly enterprise UI
 
-**💡 Impact:**
-- 📈 40% efficiency increase
-- 💰 $500K+ cost savings
-- 🏆 Industry-leading solution
+#### 💡 Outcome
+- 📈 **40% efficiency improvement**
+- 💼 Better operational visibility
+- 🏭 Suitable for industrial workflow management
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**👨‍💻 My Role:**
-```
+#### 👨‍💻 My Contribution
+```text
 ├─ Dashboard Development
 ├─ Reporting Framework
 ├─ Document System
 ├─ Database Optimization
-└─ User Experience Design
+└─ UX Improvement
 ```
 
-**🛠️ Tech Stack:**
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?style=flat-square&logo=.net)
-![.NET APIs](https://img.shields.io/badge/-.NET%20APIs-512BD4?style=flat-square&logo=.net)
-![MSSQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server)
+#### 🛠️ Stack
+![VB.NET](https://img.shields.io/badge/VB.NET-0D1117?style=flat-square&logo=dotnet&logoColor=7DF9FF)
+![.NET APIs](https://img.shields.io/badge/.NET%20APIs-0D1117?style=flat-square&logo=dotnet&logoColor=7DF9FF)
+![MSSQL](https://img.shields.io/badge/MS%20SQL-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
 
 </td>
 </tr>
@@ -263,42 +254,42 @@ Enterprise-grade ERP for paper manufacturing industry
 
 ---
 
-### 🏨 Project #3: Channel Manager
+### 🏨 Project 3 — Channel Manager
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏪 Objective:**
-Multi-property management with real-time availability
+#### 🎯 Objective
+A multi-property management solution with room availability and reservation control.
 
-**📊 Features:**
-- ✅ Property management
-- ✅ Room availability tracking
+#### 📌 Key Features
+- ✅ Property management workflows
+- ✅ Availability and booking visibility
 - ✅ Rate plan management
-- ✅ Reservation system
-- ✅ Mobile optimization
+- ✅ Reservation handling
+- ✅ Mobile-friendly UI
 
-**💡 Impact:**
-- 📈 30% booking increase
-- 🌍 50+ properties managed
-- ⭐ 4.8/5 user rating
+#### 💡 Outcome
+- 📈 **30% booking increase**
+- 🌍 Managed **50+ properties**
+- ⭐ Delivered a smooth user experience
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**👨‍💻 My Role:**
-```
+#### 👨‍💻 My Contribution
+```text
 ├─ Dashboard Creation
-├─ Property Module
-├─ Rate Plan Engine
+├─ Property Module Development
+├─ Rate Plan Engine Support
 ├─ UX Optimization
 └─ Mobile Responsiveness
 ```
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MUI](https://img.shields.io/badge/-Material--UI-007FFF?style=flat-square&logo=mui)
+#### 🛠️ Stack
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-0D1117?style=flat-square&logo=mui&logoColor=007FFF)
 
 </td>
 </tr>
@@ -306,42 +297,42 @@ Multi-property management with real-time availability
 
 ---
 
-### 📚 Project #4: DLMS (Loan Management System)
+### 📚 Project 4 — DLMS (Loan Management System)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎓 Objective:**
-Education loan management & tracking platform
+#### 🎯 Objective
+A platform for loan application workflows, approvals, document handling, and status tracking.
 
-**📊 Features:**
+#### 📌 Key Features
 - ✅ Application tracking
-- ✅ Approval workflows
-- ✅ Document upload
-- ✅ Status notifications
-- ✅ Responsive interface
+- ✅ Approval workflow support
+- ✅ Document upload and review
+- ✅ Status-based communication
+- ✅ Responsive user interface
 
-**💡 Impact:**
-- 📈 80% faster processing
-- 👥 5000+ applications handled
-- 🎯 99.9% accuracy
+#### 💡 Outcome
+- 📈 **80% faster** process flow
+- 👥 Managed **5000+ applications**
+- 🎯 High workflow accuracy and clarity
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**👨‍💻 My Role:**
-```
+#### 👨‍💻 My Contribution
+```text
 ├─ Frontend Development
 ├─ Workflow Design
 ├─ API Integration
 ├─ Form Validation
-└─ Responsive Design
+└─ Responsive UX
 ```
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui)
+#### 🛠️ Stack
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-0D1117?style=flat-square&logo=mui&logoColor=007FFF)
 
 </td>
 </tr>
@@ -353,16 +344,10 @@ Education loan management & tracking platform
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════╗
-║          🎓 EDUCATIONAL QUALIFICATIONS 🎓         ║
-╚════════════════════════════════════════════════════╝
-```
-
-| Degree | Institution | Year | Grade |
-|--------|-------------|------|-------|
-| **MCA** (Master of Computer Application) | Kanpur Institute of Technology | 2021 | 🌟🌟🌟🌟 |
-| **B.Tech** (Bachelor of Computer Technology) | Vision College of Management | 2018 | 🌟🌟🌟🌟 |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **MCA** — Master of Computer Application | Kanpur Institute of Technology | 2021 |
+| **B.Tech** — Bachelor of Computer Technology | Vision College of Management | 2018 |
 
 </div>
 
@@ -372,13 +357,12 @@ Education loan management & tracking platform
 
 <div align="center">
 
-### 🔥 My GitHub Activity
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackWorld-Creater&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackWorld-Creater&theme=tokyonight&hide_border=true" alt="github streak" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackWorld-Creater&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=fff&icon_color=00FF41)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackWorld-Creater&theme=radical&hide_border=false&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=fff&sideNums=fff&currStreakLabel=00FF41&sideLabels=fff&dates=fff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackWorld-Creater&theme=radical&show_icons=true&hide_border=false&layout=compact&bg_color=0d1117&text_color=fff&title_color=00FF41)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackWorld-Creater&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
 
@@ -388,26 +372,27 @@ Education loan management & tracking platform
 
 <div align="center">
 
-### 💻 Core Competencies
-
 | Skill | Proficiency | Experience |
 |-------|-------------|------------|
-| React.js | ████████░░ 90% | 3.5 Years |
-| ASP.NET MVC | ████████░░ 92% | 4+ Years |
-| .NET APIs | ████████░░ 90% | 4+ Years |
-| Next.js | ███████░░░ 85% | 2.5 Years |
-| MS SQL | ████████░░ 88% | 4+ Years |
-| JavaScript | █████████░ 95% | 3.5 Years |
+| React.js | █████████░ 90% | 3.5 Years |
+| ASP.NET MVC | █████████░ 92% | 4+ Years |
+| .NET APIs | █████████░ 90% | 4+ Years |
+| Next.js | ████████░░ 85% | 2.5 Years |
+| MS SQL | █████████░ 88% | 4+ Years |
+| JavaScript | ██████████ 95% | 3.5 Years |
+
+</div>
 
 ### 🎯 Soft Skills
 
+```text
+Leadership         ████████░░ 80%
+Mentoring          █████████░ 85%
+Communication      █████████░ 90%
+Problem Solving    ██████████ 95%
+Collaboration      █████████░ 88%
+Time Management    ████████░░ 85%
 ```
-Leadership         ████████░░ 80%  │  Mentoring         ████████░░ 85%
-Communication      █████████░ 90%  │  Problem Solving   █████████░ 95%
-Team Collaboration ████████░░ 88%  │  Time Management   ████████░░ 85%
-```
-
-</div>
 
 ---
 
@@ -415,95 +400,77 @@ Team Collaboration ████████░░ 88%  │  Time Management   �
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    ⭐ CAREER HIGHLIGHTS ⭐                    ║
-╚════════════════════════════════════════════════════════════════╝
-```
+| Achievement | Impact |
+|------------|--------|
+| Developed enterprise solutions | Serving business-critical users |
+| Optimized database-heavy systems | Faster performance and smoother workflows |
+| Built dashboards and reporting tools | Real-time decision support |
+| Improved delivery quality | Better maintainability and teamwork |
+| Supported large transaction volumes | Reliability under business load |
+| Mentored team members | Stronger developer growth |
 
 </div>
-
-| 🎯 | Achievement | Impact |
-|----|-----------|----|
-| 📈 | Developed 4 enterprise solutions | Serving 5000+ users daily |
-| 🚀 | Optimized database queries | 60% faster data retrieval |
-| 👥 | Mentored 15+ junior developers | 100% promotion rate |
-| 🏆 | Led performance optimization | 50% server load reduction |
-| 🐛 | Fixed 100+ production issues | 99.9% system uptime |
-| 📊 | Built 10+ dashboards | Real-time analytics for enterprises |
-| 🌍 | Multi-language support | 5+ languages implemented |
-| 💾 | Handled 1M+ daily transactions | Zero data loss record |
 
 ---
 
 ## 💡 What I Do Best
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────┐
-│              🔥 CORE STRENGTHS 🔥                    │
-└──────────────────────────────────────────────────────┘
-```
-
-</div>
-
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
 ### 🏗️ Architecture
-Clean code principles  
+Clean code  
 Scalable systems  
-Design patterns  
-API design
+Modular thinking  
+API-first approach
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-### 🎨 UI/UX
+### 🎨 UI / UX
 Responsive design  
-Mobile-first approach  
-User experience focus  
-Modern interfaces
+Clear user flows  
+Business-friendly interfaces  
+Modern frontends
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
 ### ⚡ Performance
 Query optimization  
-Caching strategies  
-Load balancing  
-Speed tuning
+Workflow efficiency  
+System tuning  
+Speed improvement
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
 ### 🔐 Quality
 Code reviews  
-Testing practices  
-Bug tracking  
+Bug fixing  
+Maintainability  
 Documentation
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
 ### 👥 Leadership
-Team mentoring  
-Knowledge sharing  
+Mentoring  
+Team support  
 Best practices  
-Career growth
+Knowledge sharing
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
 ### 🚀 Innovation
-New technologies  
 Continuous learning  
-Problem solving  
-Creative solutions
+Practical problem solving  
+New tools adoption  
+Better developer experience
 
 </td>
 </tr>
@@ -511,100 +478,80 @@ Creative solutions
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-### Let's Collaborate & Create Something Amazing! 🚀
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃         📬 REACH OUT • LET'S CONNECT 📬        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<a href="https://www.linkedin.com/in/aman-sharma-2b6bab147/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/BlackWorld-Creater">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="mailto:aman5kvision@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-<a href="https://wa.me/918081509186">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-
-| Contact | Details |
-|---------|---------|
-| 📧 **Email** | [aman5kvision@gmail.com](mailto:aman5kvision@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/aman-sharma-2b6bab147](https://www.linkedin.com/in/aman-sharma-2b6bab147/) |
-| 🐙 **GitHub** | [@BlackWorld-Creater](https://github.com/BlackWorld-Creater) |
-| 📱 **Phone** | +91 8081509186 |
-| 💬 **WhatsApp** | [Chat](https://wa.me/918081509186) |
-
-</div>
-
----
-
 ## 🎯 Currently Looking For
 
 <div align="center">
 
+```text
+╔══════════════════════════════════════════════════════════════════════════╗
+║ Full-Time Roles • Freelance Projects • Remote Opportunities             ║
+║ Startup Collaborations • Challenging Products • Strong Engineering Teams║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
-╔════════════════════════════════════════════════════════════════╗
-║  Interesting Projects • Remote Opportunities • Team Collaboration ║
-║     Mentoring Roles • Technical Challenges • Innovation        ║
-╚════════════════════════════════════════════════════════════════╝
-```
+
+</div>
+
+- 🚀 Full-Stack Development opportunities
+- 🤝 Freelance and contract-based projects
+- 💼 Product teams building real business systems
+- 🌍 Remote-friendly collaboration
+- 🧠 Challenging work focused on scale and performance
+
+---
+
+## 🎁 Quick Facts
+
+<div align="center">
+
+| Item | Details |
+|------|---------|
+| 🎂 Birth Date | 21 Nov 1999 |
+| 📍 Location | India 🇮🇳 |
+| 💼 Experience | 4+ Years |
+| 🏆 Current Role | Senior Software Developer |
+| 🎯 Core Focus | Full-Stack Development, ERP Systems |
+| ⚡ Passion | Clean Code, Performance, Business Solutions |
+| 🧠 Learning | Scalable systems, modern frontend, better architecture |
+| 🤝 Strength | Mentoring and team collaboration |
 
 </div>
 
 ---
 
-## 🎁 Bonus: Quick Facts
+## 📈 Growth Journey
 
 <div align="center">
 
-| 🎂 | Born | Nov 21, 1999 |
-|----|------|-------------|
-| 📍 | Location | India 🇮🇳 |
-| 💼 | Experience | 4+ Years |
-| 🏆 | Current Role | Senior Software Developer |
-| 🎯 | Focus Areas | Full-Stack Development, ERP Systems |
-| ⚡ | Passion | Clean Code, Performance, Innovation |
-| 🧠 | Learning | Emerging Technologies, AI/ML |
-| 🤝 | Leadership | Mentoring, Team Growth |
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Growth Chart
-
-```
+```text
 2018 ─── B.Tech Graduation
-       │
-       ├─ 2021 ─── MCA Graduation
-       │          │
-       │          └─ 2021-2025 ─── 4+ Years at Dataman
-       │                           │ ✓ 4 Major Projects
-       │                           │ ✓ 10+ Dashboards
-       │                           │ ✓ 1M+ Transactions
-       │
-       └─ 2025 ─── Senior Developer at ManaviyaTech
-                     │ ✓ Team Leadership
-                     │ ✓ Mentoring Role
-                     │ ✓ Technical Excellence
-                     │
-                     └─ 🚀 Future: CTO / Tech Lead?
+   │
+   ├── 2021 ─── MCA Graduation
+   │        │
+   │        └── 2021-2025 ─── Software Developer at Dataman
+   │                         │
+   │                         ├── 4 Major Projects
+   │                         ├── 10+ Dashboards
+   │                         └── 1M+ Daily Transactions Supported
+   │
+   └── 2025 ─── Senior Software Developer at ManaviyaTech
+             │
+             ├── Team Mentoring
+             ├── Performance Improvement
+             └── Technical Leadership
 ```
+
+</div>
+
+---
+
+## ❤️ Support My Work
+
+<div align="center">
+
+If you find my repositories useful, consider giving them a **⭐ star**.  
+It motivates me to keep building better products and sharing more work.
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-ff4f4055-78d8-4e13-8f1f-95e1d52f0fef.gif" width="120" alt="wave" />
 
 </div>
 
@@ -612,31 +559,18 @@ Creative solutions
 
 <div align="center">
 
-### ⭐ Support My Work
-
-If you find my repositories useful, please consider giving them a star! It helps me stay motivated to create more amazing projects. 
-
-</div>
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║         💪 Made with passion, creativity & dedication 💪      ║
-║                                                                ║
-║    "Code is poetry written for machines, not just humans"     ║
-║                                                                ║
-║              Last Updated: April 2025                          ║
-║              Made with ❤️ by Aman Sharma                      ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║        💪 Made with passion, creativity, and dedication by Aman Sharma      ║
+║                                                                              ║
+║        "Build clean. Scale fast. Deliver impact."                            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+### Thanks for visiting my profile 🙏
 
-### Thank You For Visiting! 🙏
-
-**If you have any questions or want to discuss technology, feel free to reach out!**
-
-![Wave](https://user-images.githubusercontent.com/74038190/216122069-ff4f4055-78d8-4e13-8f1f-95e1d52f0fef.gif)
+**Let's build something amazing together.**
 
 </div>
