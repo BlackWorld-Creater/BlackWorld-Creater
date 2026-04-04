@@ -35,11 +35,5 @@
 
 💡 I focus on building **real-world impactful systems** that scale.
 
----
-
-<!-- ================= EXPERIENCE ================= -->
-
-## 💼 Experience Timeline
-
 ```diff
 + Senior Software Developer | MANAVIYATECH SOLUTIONS LLP (2025)
