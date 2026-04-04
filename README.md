@@ -16,9 +16,9 @@
 
 I am a Software Developer with over 4 years of experience building scalable, secure, and user-friendly applications. I specialize in bridging the gap between robust backend APIs and highly responsive frontend interfaces. 
 
+- 🏢 **My Day Job:** I build enterprise-grade ERP systems and scalable architectures. 
+- 💻 **My GitHub:** Here you'll find my personal projects, experiments, and open-source learning.
 - 🔭 I’m currently focused on: **ERP systems, Dashboard development, Backend API engineering, and Cross-platform solutions.**
-- 💡 I enjoy optimizing application performance and ensuring real-time data synchronization.
-- 👯 I’m looking to collaborate on: **Innovative web applications and enterprise-grade solutions.**
 - 📫 How to reach me: **aman5kvision@gmail.com**
 
 ---
@@ -46,7 +46,7 @@ I am a Software Developer with over 4 years of experience building scalable, sec
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
 ### **Senior Software Developer** | *MANAVIYATECH SOLUTIONS LLP*
 📅 *Jul 2025 - Nov 2025*
@@ -63,14 +63,22 @@ I am a Software Developer with over 4 years of experience building scalable, sec
 
 ---
 
-## 🚀 Featured Projects
+## 🏢 Industry & Enterprise Projects
+*These are select commercial projects I have developed and delivered during my professional career.*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Business Static Application** | A web/mobile platform for real-time ERP monitoring (Sales, Purchases, Inventory). Built backend APIs and seamless UI. | `React.js`, `Next.js`, `.NET APIs` |
+| **Business Static App** | A web/mobile platform for real-time ERP monitoring (Sales, Purchases, Inventory). Built backend APIs and seamless UI. | `React.js`, `Next.js`, `.NET APIs` |
 | **PaperBiz ERP** | Enhanced Windows-based ERP for the paper industry. Built dashboards, reporting modules, and improved document management. | `VB.NET`, `.NET APIs`, `MS SQL` |
 | **Channel Manager** | Multi-property management platform with real-time room availability, optimizing UX for web and mobile. | `React.js`, `MUI` |
-| **DLMS (Dataman Loan System)**| Education loan management system for application tracking. Designed workflows, approval systems, and responsive frontend. | `React.js`, `MUI` |
+| **DLMS**| Education loan management system for application tracking. Designed workflows, approval systems, and responsive frontend. | `React.js`, `MUI` |
+
+---
+
+## 💻 Personal Projects & Open Source
+*Check out the pinned repositories below to see my personal coding projects, explorations into new frameworks, and open-source contributions! 👇*
+
+*(Note: GitHub will automatically display your public, pinned repositories right below this README file.)*
 
 ---
 
