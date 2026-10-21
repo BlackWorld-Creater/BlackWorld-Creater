@@ -347,7 +347,7 @@ A platform for loan application workflows, approvals, document handling, and sta
 | Degree | Institution | Year |
 |--------|-------------|------|
 | **MCA** — Master of Computer Application | Kanpur Institute of Technology | 2021 |
-| **B.Tech** — Bachelor of Computer Technology | Vision College of Management | 2018 |
+| **BCA** — Bachelor of Computer Application | Vision College of Management | 2018 |
 
 </div>
 
